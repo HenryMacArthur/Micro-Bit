@@ -1,5 +1,5 @@
 # Micro-Bit
-This is a web-based Micro:Bit code editor I made for my little brother because his school blocked the normal one and signing in every time from a guest account was getting tiring. You can run the index.html, or go to the website at https://micro-bit--henryemacarthur.replit.app. I have not yet had the chance to actually test it on a Micro:Bit, so I have no idea if it works, but Google Gemini says it will.
+This is a web-based Micro:Bit code editor I made for my little brother because his school blocked the normal one and signing in every time from a guest account was getting tiring. You can run the index.html, or go to the website at https://microbitweb.netlify.app/. I have not yet had the chance to actually test it on a Micro:Bit, so I have no idea if it works, but Google Gemini says it will.
 
 # Problems
 
@@ -9,4 +9,4 @@ This is a web-based Micro:Bit code editor I made for my little brother because h
 
 # Usage
 
-Download it, then open the HTML file, or go to https://micro-bit--henryemacarthur.replit.app. It is very similar to the normal Micro:Bit editor and Scratch, and even if you're not familiar with those, it's still pretty self-explanatory.
+Download it, then open the HTML file, or go to https://microbitweb.netlify.app/. It is very similar to the normal Micro:Bit editor and Scratch, and even if you're not familiar with those, it's still pretty self-explanatory.
