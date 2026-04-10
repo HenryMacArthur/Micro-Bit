@@ -6,6 +6,7 @@ This is a web-based Micro:Bit code editor I made for my little brother because h
 * Editing the block code changes the python code, but editing the python code doesn't change the block code. 
 * This currently uses WebUSB to put the code on the Micro:Bit. This will work on most Chromium browsers, but not Safari, Firefox, or anything on iOS (because its Apple). Also, you can't put it in Iframes.
 * You can't yet add to existing hex files, only write and overwrite them. Support for this will be added later, though.
+* You can import hex files, but not export them. You also can't edit them.
 
 # Usage
 
